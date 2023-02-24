@@ -1,0 +1,32 @@
+.label{
+    -fx-font-familu: "Arial";
+    -fx-font-weight: bold;
+    -fx-font-size: 12pt;
+    -fx-border-radius: 1.0;
+    
+}
+
+.button{
+    -fx-font-familu: "Arial";
+    -fx-font-size: 12pt;
+    -fx-font-weight: bold;
+    -fx-background-color:  #6C80F4;
+    -fx-background-radius: 8px;
+    -fx-border-radius: 8px;
+    -fx-border-color: black;
+}
+
+.text-field{
+    -fx-background-color:  aquamarine;
+    -fx-border-radius: 8px;
+    -fx-background-radius: 8px;
+    -fx-border-color: black;
+
+}
+
+
+
+
+
+
+
